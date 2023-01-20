@@ -1,16 +1,17 @@
-### Hi there 👋
+# Full-Stack Engineer with a background in HR & Recruiting
 
-<!--
-**daryacoding/daryacoding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a problem-solver looking to break into the field of Tech. I am currently a GA SEI Student graduating in February 2023 where I’m learning team collaboration strategies to work on software development. For the past 6 years, I have worked in human resources and recruiting where I developed interpersonal, problem-solving, and communication skills. In the future, I see myself in an organization that values autonomy and innovation, and which would help me develop my creative and problem-solving skills and offer more opportunites for growth.
 
-Here are some ideas to get you started:
+## Skills/Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- JavaScript
+- CSS
+- HTML
+- Python
+- React
+- Node.js
+- Express
+- MongoDb
+- API/Restful Routes
+- Postman
